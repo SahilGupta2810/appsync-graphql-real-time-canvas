@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "aws-amplify": "^1.1.22",
+    "aws-amplify": "^5.0.4",
     "catenary-curve": "^1.0.1",
     "lazy-brush": "^1.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
+    "react-scripts": "^5.0.1",
     "resize-observer-polyfill": "^1.5.1",
     "uuid": "^3.3.2"
   },
